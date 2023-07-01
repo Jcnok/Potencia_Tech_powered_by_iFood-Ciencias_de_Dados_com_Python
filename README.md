@@ -26,6 +26,6 @@ Repositório com as resoluções dos desafios de projeto e desafios de código d
 
 ### Modelagem de Dados e Projetos Lógicos na Prática com SQL:
 
-* **Desafio de Projeto**: [Construindo seu Primeiro Projeto Lógico de Bando de Dados]();
+* **Desafio de Projeto**: [Construindo seu Primeiro Projeto Lógico de Bando de Dados](https://github.com/Jcnok/Potencia_Tech_powered_by_iFood-Ciencias_de_Dados_com_Python/tree/main/DP4#desafio---projeto-de-banco-de-dados-e-commerce-refinado);
 * **Desafio de Projeto**: [Construa um Projeto Lógico de Banco de Dados do Zero]();
 
