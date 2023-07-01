@@ -1,6 +1,7 @@
 # Potencia_Tech_powered_by_iFood-Ciencias_de_Dados_com_Python
 Repositório com as resoluções dos desafios de projeto e desafios de código do bootcamp.
 
+<img src="images\logo.webp" align='center' alt="drawing" width="250" heigth="250"/>
 
 ## Sobre:
 
@@ -28,6 +29,3 @@ Repositório com as resoluções dos desafios de projeto e desafios de código d
 * **Desafio de Projeto**: [Construindo seu Primeiro Projeto Lógico de Bando de Dados]();
 * **Desafio de Projeto**: [Construa um Projeto Lógico de Banco de Dados do Zero]();
 
-### Fundamentos e Técnicas de Machine Learning:
-
-* **
