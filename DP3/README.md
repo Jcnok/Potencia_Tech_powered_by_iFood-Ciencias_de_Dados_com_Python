@@ -43,18 +43,20 @@
 <a id="ancora2"></a>
 
 ## Estrutura de Diretórios:
-src/
-    ├── desafio_v1.py          # código da solução simples
-    │
-    ├── banco.py               # código do projeto com banco de dados
-    │
-    ├── test_banco.py          # código teste de integração com 
-    │
-    ├── Sistema_bancario.ipynb # Notebook com passo a passo
-    │     
-    └── database/
-          │ 
-          └── banco.db         # banco de dados sqlite
+```
+    src/
+        ├── desafio_v1.py          # código da solução simples
+        │
+        ├── banco.py               # código do projeto com banco de dados
+        │
+        ├── test_banco.py          # código teste de integração com 
+        │
+        ├── Sistema_bancario.ipynb # Notebook com passo a passo
+        │     
+        └── database/
+            │ 
+            └── banco.db         # banco de dados sqlite
+```
     
 [voltar](#ancora)
 
@@ -710,7 +712,7 @@ if __name__ == "__main__":
 <a id="ancora5.3"></a>
 ### Mapeamento do Diagrama ER:
 
-<img src="./img/eer_banco.png" referrerpolicy="same-origin" style="display: block; object-fit: cover; border-radius: 0px; width: 100%; height: 30vh; opacity: 1; object-position: center 50%;">
+<img src="./img/eer_banco.png">
 
 [voltar](#ancora)
 
@@ -1368,20 +1370,7 @@ from IPython.display import IFrame
 IFrame(src='report.html', width=900, height=900)
 ```
 
-
-
-
-
-<iframe
-    width="900"
-    height="900"
-    src="./src/report.html"
-    frameborder="0"
-    allowfullscreen
-
-></iframe>
-
-
+<img src="./img/report.png">
 
 
 * **Como podem ver os testes foram realizados com sucesso.**

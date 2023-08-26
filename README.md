@@ -14,7 +14,7 @@ Repositório com as resoluções dos desafios de projeto e desafios de código d
 ### Dominando Python para Ciência de Dados:
 
 * **Desafio de Projeto**: [Criando um Sistema Bancário com Python](https://github.com/Jcnok/Potencia_Tech_powered_by_iFood-Ciencias_de_Dados_com_Python/tree/main/DP2#desafio---criando-um-sistema-banc%C3%A1rio-simples);
-* **Desafio de Projeto**: [Otimizando o Sistema Bancário com Funções Python]();
+* **Desafio de Projeto**: [Otimizando o Sistema Bancário com Funções Python](https://github.com/Jcnok/Potencia_Tech_powered_by_iFood-Ciencias_de_Dados_com_Python/tree/main/DP3#desafio---otimizando-o-sistema-banc%C3%A1rio);
 
 ### Exercite sua Lógica com Desafios de Código em Python:
 
