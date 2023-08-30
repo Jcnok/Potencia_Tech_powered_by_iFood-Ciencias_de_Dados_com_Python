@@ -3,7 +3,7 @@
 ![img](img/ecommerce2.jpg)
 
 
-* **Concluí o Desafio que consiste na modelagem de um bando de dados para o cenário de um e-commerce, script sql para criação do schema, persistência e realização de testes utilizando queries para responder determinadas perguntas.** 
+* **Concluí o Desafio que consiste na modelagem de um banco de dados para o cenário de um e-commerce, script sql para criação do schema, persistência e realização de testes utilizando queries para responder determinadas perguntas.** 
 * **Resolvi realizar o projeto utilizando python e as libs pandas e mysql.connector para demonstrar o passo a passo de todo o projeto.**
 * **Ao navegar pelo índice, é possível visualizar todo o passo-à-passo realizado durante a elaboração do projeto.**
 * **Todos os scripts SQL estão disponibilizados neste repositório na pasta 'src', para um eventual estudo ou replicação, vale ressaltar que intuito do conteúdo é apenas didático, com o propósito de demonstrar todo o conhecimento adquirido durante o aprendizado, ou seja, o conteúdo aqui disponibilizado apesar de similar, não abrange um banco de dados para um cenário real.**

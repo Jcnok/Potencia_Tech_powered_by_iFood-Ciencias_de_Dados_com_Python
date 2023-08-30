@@ -9,7 +9,7 @@ Repositório com as resoluções dos desafios de projeto e desafios de código d
 
 ### Princípios de Desenvolvimento de Software:
 
-* **Desafio de Projeto**: [Contribuindo em um Projeto Opens Source no GitHub]();
+* **Desafio de Projeto**: [Contribuindo em um Projeto Open Source no GitHub](https://github.com/Jcnok/Potencia_Tech_powered_by_iFood-Ciencias_de_Dados_com_Python/tree/main/DP1#desafio-contribuindo-em-um-projeto-open-source-no-github);
 
 ### Dominando Python para Ciência de Dados:
 
