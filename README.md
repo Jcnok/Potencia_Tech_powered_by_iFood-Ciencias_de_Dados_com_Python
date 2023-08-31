@@ -18,11 +18,11 @@ Repositório com as resoluções dos desafios de projeto e desafios de código d
 
 ### Exercite sua Lógica com Desafios de Código em Python:
 
-* **Desafio de Código**: [Tempo Estimado de Entrega]();
-* **Desafio de Código**: [Calcular o Preço Final de um Pedido]();
-* **Desafio de Código**: [Ganhe uma Sobremesa Especial]();
-* **Desafio de Código**: [Gerenciamento de Pedidos de Comida Online]();
-* **Desafio de Código**: [Identificando Pedidos Veganos]();
+* **Desafio de Código**: [Tempo Estimado de Entrega](https://github.com/Jcnok/Potencia_Tech_powered_by_iFood-Ciencias_de_Dados_com_Python/tree/main/DCs#desafio-tempo-estimado-de-entrega);
+* **Desafio de Código**: [Calcular o Preço Final de um Pedido](https://github.com/Jcnok/Potencia_Tech_powered_by_iFood-Ciencias_de_Dados_com_Python/tree/main/DCs#desafio-calcular-o-pre%C3%A7o-final-de-um-pedido);
+* **Desafio de Código**: [Ganhe uma Sobremesa Especial](https://github.com/Jcnok/Potencia_Tech_powered_by_iFood-Ciencias_de_Dados_com_Python/tree/main/DCs#desafio-ganhe-uma-sobremesa-especial);
+* **Desafio de Código**: [Gerenciamento de Pedidos de Comida Online](https://github.com/Jcnok/Potencia_Tech_powered_by_iFood-Ciencias_de_Dados_com_Python/tree/main/DCs#desafio-gerenciamento-de-pedidos-de-comida-online);
+* **Desafio de Código**: [Identificando Pedidos Veganos](https://github.com/Jcnok/Potencia_Tech_powered_by_iFood-Ciencias_de_Dados_com_Python/tree/main/DCs#desafio-identificando-pedidos-veganos);
 
 ### Modelagem de Dados e Projetos Lógicos na Prática com SQL:
 
